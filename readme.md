@@ -1,5 +1,6 @@
 # 利用Github Pages搭建个人在线简历
 
+#输入网址看一下效果：https://wangwei216.github.io/wangwei/
 ----
 
 #### 什么是 Github Pages？
